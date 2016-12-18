@@ -1,0 +1,8 @@
+{
+  "name": "arraycompare",
+  "version": "1.0.0",
+  "description": "A utility to compare arrays and yield their differences, similarly to git's diff tool.",
+  "main": "ArrayCompare.js",
+  "author": "Juan J. Alvarez <juan.alvarez7@upr.edu>",
+  "license": "MIT"
+}

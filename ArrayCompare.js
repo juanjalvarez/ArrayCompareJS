@@ -27,10 +27,3 @@ function compareArrays(getPrimary, Arr1, Arr2) {
 }
 
 module.exports = compareArrays;
-
-let a = [1, 2, 3];
-let b = [1, 2, 4];
-let func = function(elem) {
-  return elem;
-}
-console.log(compareArrays(func, a, b));
